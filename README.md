@@ -1,24 +1,24 @@
 # MyGuide
 Here I write some short-code for language
 
-#Django
+# Django
 PostgreSql Connection
 RestFramework
 And More.
 
-#Node
+# Node
 Rest api
 Express Use
 Database Connection.
 
-#React
+# React
 Api Calling sync method and more discription.
 And More.
 
-#Redux
+# Redux
 shortcut for implementing redux in project.
 
-#Web
+# Web
 tricks for normal js.
 
 It is initiated much more updates going to be push forward So Stay Tuned
