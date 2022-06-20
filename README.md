@@ -1,12 +1,16 @@
 # MyGuide
 Here I write some short-code for language
 
+# Angular
+
+
 # Django
 PostgreSql Connection
 RestFramework
 And More.
 
 # Node
+Database Connection.
 Rest api
 Express Use
 Database Connection.
@@ -22,3 +26,4 @@ shortcut for implementing redux in project.
 tricks for normal js.
 
 It is initiated much more updates going to be push forward So Stay Tuned
+
